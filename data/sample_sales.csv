@@ -1,0 +1,16 @@
+order_date,region,product_category,product,units,revenue,profit
+2025-07-03,East,Technology,Laptop,3,3600,720
+2025-07-05,West,Office Supplies,Paper,40,220,55
+2025-07-08,South,Furniture,Chair,6,900,135
+2025-07-12,East,Technology,Phone,8,4800,960
+2025-07-18,Central,Office Supplies,Binders,25,375,75
+2025-08-02,West,Technology,Monitor,5,1250,250
+2025-08-06,East,Furniture,Desk,2,700,140
+2025-08-10,South,Office Supplies,Pens,60,180,36
+2025-08-15,Central,Technology,Tablet,4,1600,320
+2025-08-21,West,Furniture,Bookcase,1,450,90
+2025-09-01,East,Office Supplies,Labels,30,150,30
+2025-09-04,South,Technology,Laptop,2,2400,480
+2025-09-09,Central,Furniture,Chair,3,450,68
+2025-09-16,West,Technology,Phone,5,3000,600
+2025-09-22,East,Technology,Monitor,4,1000,200

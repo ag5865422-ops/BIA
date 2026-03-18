@@ -1,0 +1,16 @@
+date,region,product,category,revenue,quantity
+2025-07-01,North,Laptop,Electronics,50000,5
+2025-07-02,South,Phone,Electronics,30000,10
+2025-07-03,East,Tablet,Electronics,20000,4
+2025-07-04,West,Headphones,Accessories,8000,15
+2025-07-10,North,Phone,Electronics,25000,8
+2025-07-15,South,Laptop,Electronics,55000,6
+2025-08-01,North,Tablet,Electronics,22000,5
+2025-08-05,East,Phone,Electronics,28000,9
+2025-08-10,West,Headphones,Accessories,9000,18
+2025-08-15,South,Tablet,Electronics,21000,6
+2025-09-01,North,Laptop,Electronics,60000,7
+2025-09-05,East,Phone,Electronics,32000,11
+2025-09-10,West,Tablet,Electronics,23000,5
+2025-09-15,South,Headphones,Accessories,8500,14
+2025-09-20,North,Phone,Electronics,27000,9
